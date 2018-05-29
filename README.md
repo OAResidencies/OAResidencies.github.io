@@ -1,5 +1,5 @@
 
-[About](https://oaresidencies.github.io/#about) | [Residencies](https://oaresidencies.github.io/#residencies) | [Artists](https://oaresidencies.github.io/#artists) | [Projects](https://oaresidencies.github.io/#projects) | [Archive](https://oaresidencies.github.io/#archive) | [Oberrō](https://oaresidencies.github.io/#oberro) 
+[About](https://oaresidencies.github.io/#about) | [Residencies](https://oaresidencies.github.io/#residencies) | [Artists](https://oaresidencies.github.io/#artists) | [Projects](https://oaresidencies.github.io/#projects) | [Archive](https://oaresidencies.github.io/#archive) | [Oberrō](https://oaresidencies.github.io/#oberr%C5%8D) 
 
 # Oberrō Artist-run Residencies (OARs)
 
@@ -11,7 +11,7 @@ The structures of each residency are shaped by the artists and as the group is f
 
 In OARs, artists can develop their projects independently and/or propose projects collaboratively. The focus is on the communal aspect of the residency, where spaces, tools and knowledge can be shared. 
 
-OARs is a project developed through [Oberrō](https://oaresidencies.github.io/#oberro) 
+OARs is a project developed through [Oberrō](https://oberro.github.io/)
 
 
 ## **Residencies**
