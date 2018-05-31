@@ -38,7 +38,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 > **OAR Sarajevo 2018**
 > - DIY Residencies (2018)  
-> - Bite to Byte (2017-ongoing) 
+> - [Bite to Byte](https://github.com/oberro/Bite-to-Byte)  (2017-ongoing) 
 > - OAR Sarajevo Exhibition (2018)
 
 You can find the documentation of all projects developed through **Oberrō** in our [Github Wiki page](https://github.com/oberro/oberro.github.io/wiki). 
