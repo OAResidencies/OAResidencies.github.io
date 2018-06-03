@@ -47,7 +47,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 >> - *White Cube (The House on Top of the Hill)*, Lia Carreira
 >> - *Corruption*, Bengü Özakıncı and Daníel Eldjárn
->> - *Untitled*, Alex Yang
+>> - *Skin*, Alex Yang
 >> - *Untitled*, Fred Becker
 
 More about the **OAR Sarajevo 2018** [here](https://github.com/OAResidencies/Sarajevo2018) 
