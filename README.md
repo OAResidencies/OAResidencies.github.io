@@ -18,7 +18,7 @@ OARs is a project developed through [Oberrō](https://oberro.github.io/)
 
 OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-Herzegovina. 
 
-> - [May 2018] **OAR Sarajevo**, Bosnia-Herzegovina
+> - [May 2018] **[OAR Sarajevo](https://github.com/OAResidencies/Sarajevo2018)**, Bosnia-Herzegovina
 > - [upcoming] **OAR Reykjavik**, Iceland
 > - [upcoming] **OAR Istanbul**, Turkey
 
@@ -27,7 +27,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 ![OAR Sarajevo Artists](https://raw.githubusercontent.com/OAResidencies/OAResidencies.github.io/master/DSCF8212.JPG)
 
-> **OAR Sarajevo 2018**
+> **[OAR Sarajevo 2018](https://github.com/OAResidencies/Sarajevo2018)**
 > - [Alex Yang](@alexalexyang) (Singapore) 
 > - [Bengü Özakıncı](bengu-thon-mai-mochi) (Turkey)
 > - [Daníel Eldjárn](@danieleldjarn) (Iceland)
@@ -40,7 +40,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 ![OAR Sarajevo VR Installation](https://raw.githubusercontent.com/OAResidencies/OAResidencies.github.io/master/DSCF8829.JPG "Title")
 
-> **OAR Sarajevo 2018**
+> **[OAR Sarajevo 2018](https://github.com/OAResidencies/Sarajevo2018)**
 > - DIY Residencies (2018)  
 > - [Bite to Byte](https://github.com/oberro/Bite-to-Byte)  (2017-ongoing) 
 > - OAR Sarajevo Home Exhibition (2018), presenting four VR Interactive installations:
@@ -50,8 +50,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 >> - *Untitled*, Alex Yang
 >> - *Untitled*, Fred Becker
 
-You can find the documentation of all projects developed through **Oberrō** in our [Github Wiki page](https://github.com/oberro/oberro.github.io/wiki). 
-
+More about the **OAR Sarajevo 2018** [here](https://github.com/OAResidencies/Sarajevo2018) 
 
 ## **Archive**
 
