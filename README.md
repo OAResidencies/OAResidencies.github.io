@@ -25,7 +25,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 ## **Artists**
 
-![alt text](https://github.com/OAResidencies/OAResidencies.github.io/blob/master/DSCF8212.JPG)
+![OAR Sarajevo Artists](https://github.com/OAResidencies/OAResidencies.github.io/blob/master/DSCF8212.JPG)
 
 > **OAR Sarajevo 2018**
 > - [Alex Yang](@alexalexyang) (Singapore) 
@@ -38,7 +38,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 ## **Projects**
 
-![alt text](https://github.com/OAResidencies/OAResidencies.github.io/blob/master/DSCF8829.JPG)
+![OAR Sarajevo VR Installation](https://github.com/OAResidencies/OAResidencies.github.io/blob/master/DSCF8829.JPG)
 
 > **OAR Sarajevo 2018**
 > - DIY Residencies (2018)  
