@@ -38,7 +38,7 @@ OARs started in 2018 and was developed for the first time in Sarajevo, Bosnia-He
 
 ## **Projects**
 
-![OAR Sarajevo VR Installation](https://github.com/OAResidencies/OAResidencies.github.io/blob/master/DSCF8829.JPG?raw=true)
+![OAR Sarajevo VR Installation](https://raw.githubusercontent.com/OAResidencies/OAResidencies.github.io/master/DSCF8829.JPG "Title")
 
 > **OAR Sarajevo 2018**
 > - DIY Residencies (2018)  
